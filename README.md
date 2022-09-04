@@ -1,4 +1,4 @@
-# MusicID
+# MusicID (A Shazam Clone in Python)
 My A Level Project. A clone of Shazam, with a very small dataset to prove the concept works.
 
 This is MusicID, a project I chose to do for my A Level Coursework. It is in essence a Shazam clone with a much smaller dataset.
