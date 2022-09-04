@@ -7,7 +7,9 @@ This code was not intended for any user to actually be using hence it isn’t wr
 
 For those interested I have included some documents explaining the whole program and how the algorithm works. There is also a small analysis of the accuracy of the program.
 
-For those wanting to test it out, the songs I fingerprinted are as follows (yes its very Taylor Swift themed I had lots of her songs saved already don’t be judging (All songs are the original, non-Taylor's Version, songs)):
+For those wanting to test it out, follow this dropbox link (https://www.dropbox.com/sh/bz1nbqranr2btgm/AADwq0xitVAjlW8HldQgvJwha?dl=0) for the additional files which includes some temp storage files for the code and also the fingerprint database (which is simply written out as a binary txt file). Download all of the files (~380Mb) and simply put them in the same folder as the python files. With all the code and text files in the same folder, run 'main.py' and it should all work (in theory).
+
+The songs I fingerprinted are as follows (yes its very Taylor Swift themed I had lots of her songs saved already don’t be judging (All songs are the original, non-Taylor's Version, songs)):
  - Ed Sheeran - Castle On The Hill
  - Ed Sheeran - Perfect
  - Ed Sheeran - River ft. Eminem
