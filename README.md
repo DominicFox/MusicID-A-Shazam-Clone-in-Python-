@@ -1,15 +1,13 @@
 # MusicID (A Shazam Clone in Python)
-My A Level Project. A clone of Shazam, with a very small dataset to prove the concept works.
+A clone of Shazam that I coded entirely by myself from scratch. I constructed a small dataset to prove the code works correctly.
 
-This is MusicID, a project I chose to do for my A Level Coursework. It is in essence a Shazam clone with a much smaller dataset.
-
-This code was not intended for any user to actually be using hence it isn’t written in a professional or robust way, for example, it does not feature error checking. It was written to prove that I can implement and design a complex program in Python.
+This is MusicID, a project I chose to do for some coursework. It is in essence a Shazam clone with a much smaller dataset.
 
 For those interested I have included some documents explaining the whole program and how the algorithm works. There is also a small analysis of the accuracy of the program.
 
-For those wanting to test it out, follow this dropbox link (https://www.dropbox.com/sh/bz1nbqranr2btgm/AADwq0xitVAjlW8HldQgvJwha?dl=0) for the additional files which includes some temp storage files for the code and also the fingerprint database (which is simply written out as a binary txt file). Download all of the files (~380Mb) and simply put them in the same folder as the python files. With all the code and text files in the same folder, run 'main.py' and it should all work (in theory).
+For those wanting to test it out, follow this dropbox link (https://www.dropbox.com/sh/bz1nbqranr2btgm/AADwq0xitVAjlW8HldQgvJwha?dl=0) for the additional files which includes some temp storage files for the code and also the fingerprint database (which is simply written out as a binary txt file). Download all of the files (~380Mb) and simply put them in the same folder as the python files. With all the code and text files in the same folder, run 'main.py' and it should all work!
 
-The songs I fingerprinted are as follows (yes its very Taylor Swift themed I had lots of her songs saved already don’t be judging (All songs are the original, non-Taylor's Version, songs)):
+The songs I fingerprinted are as follows (yes its very Taylor Swift themed, it's just what I had downloaded already :D ):
  - Ed Sheeran - Castle On The Hill
  - Ed Sheeran - Perfect
  - Ed Sheeran - River ft. Eminem
