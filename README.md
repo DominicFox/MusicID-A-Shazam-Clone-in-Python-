@@ -4,7 +4,7 @@ PLEASE READ 'Project Explanation.pdf' ABOVE FOR AN OVERVIEW OF HOW THE CODE WORK
 
 A clone of Shazam that I coded entirely by myself from scratch. I constructed a small dataset to prove the code works correctly. Here is a small demo I created:
 
-<a href = "https://www.youtube.com/watch?v=V7d0rjQ8JYI" target = "_blank">![Shazam Clone Video Demonstration Thumbnail](https://img.youtube.com/vi/V7d0rjQ8JYI/0.jpg)]</a>
+<a href = "https://www.youtube.com/watch?v=V7d0rjQ8JYI" target = "_blank">![Shazam Clone Video Demonstration Thumbnail](https://img.youtube.com/vi/V7d0rjQ8JYI/0.jpg)</a>
 
 For those interested I have included some documents explaining the whole program and how the algorithm works. There is also a small analysis of the accuracy of the program.
 
