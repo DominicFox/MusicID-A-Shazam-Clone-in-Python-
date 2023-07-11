@@ -1,7 +1,10 @@
 # MusicID (A Shazam Clone in Python)
-A clone of Shazam that I coded entirely by myself from scratch. I constructed a small dataset to prove the code works correctly.
 
-This is MusicID, a project I chose to do for some coursework. It is in essence a Shazam clone with a much smaller dataset.
+PLEASE READ 'Project Explanation.pdf' ABOVE FOR AN OVERVIEW OF HOW THE CODE WORKS :)
+
+A clone of Shazam that I coded entirely by myself from scratch. I constructed a small dataset to prove the code works correctly. Here is a small demo I created:
+
+[![Shazam Clone Video Demonstration Thumbnail](https://img.youtube.com/vi/V7d0rjQ8JYI/0.jpg)](https://www.youtube.com/watch?v=V7d0rjQ8JYI)
 
 For those interested I have included some documents explaining the whole program and how the algorithm works. There is also a small analysis of the accuracy of the program.
 
